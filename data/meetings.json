@@ -12720,6 +12720,12 @@
 "usertype":"normal","comment":"Jeg er optaget 13-18, s\u00e5 jeg kan ikke lave mad.","modified":1474379170,"name":"Niels G. W. Serup"},
 "22":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1474380097}},
+"usertype":"normal","comment":"","modified":1474380097,"name":"Sebastian Paaske T\u00f8rholm"},
+"114":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1474400806,"name":"Simon Skjerning Linneberg"},
+"24":{"schedule":{"0":{"attending":false},
+"1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1474406588}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
