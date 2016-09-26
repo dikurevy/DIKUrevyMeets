@@ -12729,6 +12729,9 @@
 "usertype":"normal","comment":"","modified":1474406588,"name":"Mikkel Kj\u00e6r Jensen"},
 "2779":{"schedule":{"0":{"attending":false},
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"Fokus aften p\u00e5 uni ligger lige oveni desv\u00e6rre (Simon O)","modified":1474824450}},
+"usertype":"normal","comment":"Fokus aften p\u00e5 uni ligger lige oveni desv\u00e6rre (Simon O)","modified":1474824450,"name":"Simon Boje Outzen"},
+"2613":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1474891704}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
