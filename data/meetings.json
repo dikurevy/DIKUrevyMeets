@@ -13094,8 +13094,8 @@
 "2459":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":true,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"Jeg laver alligevel mad til Matematikrevyen. Enhver hj\u00e6lp vil v\u00e6re *meget* velkommen, da jeg tilsyneladende st\u00e5r alene med det.","modified":1479677498,"name":"Signe Scholer Jensen"},
-"2459-4dfa":{"name":"Nicklas","usertype":"extra","schedule":{"0":{"attending":true},
-"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"comment":"","modified":1479677519}},
+"2622":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":true,"paid":0}},
+"usertype":"normal","comment":"Vil meget gerne at der var en der kunne tage over. Har CompSys med aflevering til torsdag, s\u00e5 f\u00e5r nok brug for at lave p\u00e5 den...","modified":1479713508}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
