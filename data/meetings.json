@@ -13139,10 +13139,10 @@
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"","modified":1483541055,"name":"Simon Skjerning Linneberg"},
 "42":{"schedule":{"0":{"attending":true},
-"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"Le auteures d'Leux","modified":1483542939,"name":"Niels G. W. Serup"},
+"1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"Le auteures d'Leux du met.  Jeg finder jer p\u00e5 \u00f8velsesgangen kl. 19.","modified":1483632257},
 "38":{"schedule":{"0":{"attending":true},
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1483568797}},
+"usertype":"normal","comment":"","modified":1483568797,"name":"Andreas Malmkj\u00e6r-M\u00f8rch"}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
