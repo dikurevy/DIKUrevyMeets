@@ -13160,7 +13160,7 @@
 "1":{"title":"Aftensmad","type":"eat","start":"0 18:00","end":"0 19:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"id":"1"}},
 "comment":"","users":{"114":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1483998905,"name":"Simon Skjerning Linneberg"},
+"usertype":"normal","comment":"\\","modified":1484351959},
 "38":{"schedule":{"0":{"attending":true},
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"","modified":1484025019,"name":"Andreas Malmkj\u00e6r-M\u00f8rch"},
@@ -13175,6 +13175,6 @@
 "usertype":"normal","comment":"","modified":1484119589,"name":"oleks"},
 "42":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"&lt;vits&gt;","modified":1484309434}},
+"usertype":"normal","comment":"&lt;vits&gt;","modified":1484309434,"name":"Niels G. W. Serup"}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
