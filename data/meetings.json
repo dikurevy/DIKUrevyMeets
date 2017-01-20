@@ -13077,7 +13077,7 @@
 "usertype":"normal","comment":"","modified":1476731721,"name":"Nana Girotti"},
 "42":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1484854404}},
+"usertype":"normal","comment":"Er det her der er Fysikrevy?","modified":1484947458}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false},
 "2017-05-28":{"title":"Reng\u00f8ring efter revy","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 10:00","end":"0 23:00","unique":false,"nojoin":false,"id":"0"},
