@@ -13228,6 +13228,9 @@
 "usertype":"normal","comment":"Har en reeksamen dagen efter.","modified":1485376963,"name":"Niels G. W. Serup"},
 "38":{"schedule":{"0":{"attending":true},
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1485381752}},
+"usertype":"normal","comment":"","modified":1485381752,"name":"Andreas Malmkj\u00e6r-M\u00f8rch"},
+"22":{"schedule":{"0":{"attending":false},
+"1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1485461384}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
