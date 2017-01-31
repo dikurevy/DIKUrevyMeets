@@ -13231,6 +13231,9 @@
 "usertype":"normal","comment":"","modified":1485381752,"name":"Andreas Malmkj\u00e6r-M\u00f8rch"},
 "22":{"schedule":{"0":{"attending":false},
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1485461384}},
+"usertype":"normal","comment":"","modified":1485461384,"name":"Sebastian Paaske T\u00f8rholm"},
+"2781":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1485828915}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
