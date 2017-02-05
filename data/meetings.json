@@ -13212,7 +13212,7 @@
 "comment":"","modified":1486170093},
 "2622":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1486170106}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2017-03-11":{"title":"Legedag og MBK revy","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 11:00","end":"0 18:00","unique":false,"nojoin":false,"id":"0"},
 "1":{"title":"Plads til MBK ","type":"meet","start":"0 19:30","end":"0 23:00","unique":false,"nojoin":false,"id":"1"}},
