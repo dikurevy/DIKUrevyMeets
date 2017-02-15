@@ -13277,4 +13277,9 @@
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"","modified":1486388095}},
 "hidden":true,"locked":true,"tags":{"0":""},
+"days":false},
+"2017-02-24":{"title":"Legedag 1.0","schedule":{"0":{"id":"0","title":"M\u00f8de\/Hygge","type":"meet","start":"0 12:00","end":"0 18:00","unique":false,"nojoin":false}},
+"comment":"","users":{"2622":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1487155234}},
+"hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
