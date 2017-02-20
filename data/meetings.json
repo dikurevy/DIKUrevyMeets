@@ -13287,6 +13287,8 @@
 "38":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1487441594,"name":"Andreas Malmkj\u00e6r-M\u00f8rch"},
 "42":{"schedule":{"0":{"attending":false}},
-"usertype":"normal","comment":"","modified":1487602453}},
+"usertype":"normal","comment":"","modified":1487602453,"name":"Niels G. W. Serup"},
+"114":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1487628636}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
