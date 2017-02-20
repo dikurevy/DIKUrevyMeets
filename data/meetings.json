@@ -13285,6 +13285,8 @@
 "comment":"","users":{"2622":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1487155234,"name":"Nicklas L\u00fctken"},
 "38":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1487441594}},
+"usertype":"normal","comment":"","modified":1487441594,"name":"Andreas Malmkj\u00e6r-M\u00f8rch"},
+"42":{"schedule":{"0":{"attending":false}},
+"usertype":"normal","comment":"","modified":1487602453}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
