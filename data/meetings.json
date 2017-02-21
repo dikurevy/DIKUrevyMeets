@@ -13281,7 +13281,7 @@
 "usertype":"normal","comment":"","modified":1486388095}},
 "hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
-"2017-02-24":{"title":"Legedag 1.0","schedule":{"0":{"id":"0","title":"M\u00f8de\/Hygge","type":"meet","start":"0 12:00","end":"0 18:00","unique":false,"nojoin":false}},
+"2017-02-24":{"title":"Legedag 1.0","schedule":{"0":{"id":"0","title":"M\u00f8de\/Hygge","type":"meet","start":"0 16:00","end":"0 23:59","unique":false,"nojoin":false}},
 "comment":"","users":{"2622":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1487155234,"name":"Nicklas L\u00fctken"},
 "38":{"schedule":{"0":{"attending":true}},
@@ -13289,6 +13289,8 @@
 "42":{"schedule":{"0":{"attending":false}},
 "usertype":"normal","comment":"","modified":1487602453,"name":"Niels G. W. Serup"},
 "114":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1487628636}},
+"usertype":"normal","comment":"","modified":1487628636,"name":"Simon Skjerning Linneberg"},
+"149":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"Jeg kommer m\u00e5ske lidt senere end 16.00 #voksenjob","modified":1487716179}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
