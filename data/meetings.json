@@ -13291,6 +13291,8 @@
 "114":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1487628636,"name":"Simon Skjerning Linneberg"},
 "149":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"Jeg kommer m\u00e5ske lidt senere end 16.00 #voksenjob","modified":1487716179}},
+"usertype":"normal","comment":"Jeg kommer m\u00e5ske lidt senere end 16.00 #voksenjob","modified":1487716179,"name":"Mia Louw V\u00e6rndal"},
+"12":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1487718319}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
