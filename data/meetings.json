@@ -13293,6 +13293,8 @@
 "149":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"Jeg kommer m\u00e5ske lidt senere end 16.00 #voksenjob","modified":1487716179,"name":"Mia Louw V\u00e6rndal"},
 "12":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1487718319}},
+"usertype":"normal","comment":"","modified":1487718319,"name":"Ejnar H\u00e5konsen"},
+"2782":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1487754741}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
