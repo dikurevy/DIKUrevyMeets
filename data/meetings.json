@@ -13290,7 +13290,7 @@
 "38":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1487441594,"name":"Andreas Malmkj\u00e6r-M\u00f8rch"},
 "42":{"schedule":{"0":{"attending":false}},
-"usertype":"normal","comment":"","modified":1487602453,"name":"Niels G. W. Serup"},
+"usertype":"normal","comment":"Jeg spiller petanque. #overhovedetikkevoksenjob","modified":1487884387},
 "114":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"Jeg kommer senere end 16:00 #n\u00e6stenvoksenjob","modified":1487777081,"name":"Simon Skjerning Linneberg"},
 "149":{"schedule":{"0":{"attending":true}},
@@ -13300,6 +13300,8 @@
 "2782":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1487754741,"name":"Mathias Hempel-J\u00f8rgensen"},
 "2613":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1487856773}},
+"usertype":"normal","comment":"","modified":1487856773,"name":"Kasper Elbo"},
+"12-b8de":{"name":"\u00c6milie","usertype":"extra","schedule":{"0":{"attending":true}},
+"comment":"","modified":1487877782}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
