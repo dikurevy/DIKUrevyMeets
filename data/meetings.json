@@ -13311,7 +13311,8 @@
 "comment":"","modified":1487877782}},
 "hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
-"2017-03-06":{"title":"Madlavning til MBK revyen","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"14:00","end":"20:00","unique":false,"nojoin":false}},
-"comment":"Vi har brug for alt hj\u00e6lp i verden :) ","users":{},
+"2017-03-06":{"title":"Madlavning til MBK revyen","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 14:00","end":"0 20:00","unique":false,"nojoin":false,"id":"0"}},
+"comment":"Vi har brug for alt hj\u00e6lp i verden :) ","users":{"2788":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1488556453}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
