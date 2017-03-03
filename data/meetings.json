@@ -13310,4 +13310,8 @@
 "12-b8de":{"name":"\u00c6milie","usertype":"extra","schedule":{"0":{"attending":true}},
 "comment":"","modified":1487877782}},
 "hidden":true,"locked":true,"tags":{"0":""},
+"days":false},
+"2017-03-06":{"title":"Madlavning til MBK revyen","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"14:00","end":"20:00","unique":false,"nojoin":false}},
+"comment":"Vi har brug for alt hj\u00e6lp i verden :) ","users":{},
+"hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
