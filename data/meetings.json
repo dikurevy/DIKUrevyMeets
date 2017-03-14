@@ -13385,6 +13385,8 @@
 "22":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1489319826,"name":"Sebastian Paaske T\u00f8rholm"},
 "38":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1489438099}},
+"usertype":"normal","comment":"","modified":1489438099,"name":"Andreas Malmkj\u00e6r-M\u00f8rch"},
+"2346":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1489478666}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
