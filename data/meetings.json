@@ -13402,7 +13402,7 @@
 "usertype":"normal","comment":"Jeg er i Nordsj\u00e6lland.","modified":1489503333,"name":"Niels G. W. Serup"},
 "35":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1489565519}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2017-06-09":{"title":"Postrevy","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 19:00","end":"0 23:00","unique":false,"nojoin":false,"id":"0"},
 "1":{"title":"Aftensmad","type":"eat","start":"0 18:00","end":"0 19:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"id":"1"}},
