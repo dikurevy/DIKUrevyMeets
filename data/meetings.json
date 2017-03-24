@@ -13642,6 +13642,12 @@
 "1":{"title":"Aftensmad","type":"eat","start":"0 18:00","end":"0 19:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"id":"1"}},
 "comment":"","users":{"114":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1490300026}},
+"usertype":"normal","comment":"","modified":1490300026,"name":"Simon Skjerning Linneberg"},
+"22":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1490344960,"name":"Sebastian Paaske T\u00f8rholm"},
+"38":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"Allergisk over for \u00e6g, n\u00f8dder, majs, korn og store m\u00e6ngder tomat.","modified":1490349083}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
