@@ -14042,5 +14042,5 @@
 "usertype":"normal","comment":"","modified":1492683042,"name":"Signe Scholer Jensen"},
 "2613":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"Jeg kommer n\u00e5r jeg engang kan slippe fra arbejdet. Nok ca 15","modified":1492694489}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false}}
