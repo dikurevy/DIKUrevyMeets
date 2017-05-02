@@ -14190,4 +14190,11 @@
 "2613":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"Jeg kommer n\u00e5r jeg engang kan slippe fra arbejdet. Nok ca 15","modified":1492694489}},
 "hidden":true,"locked":true,"tags":{"0":""},
+"days":false},
+"2017-05-06":{"title":"Forfatterm\u00f8de","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 16:00","end":"0 19:00","unique":false,"nojoin":false,"id":"0"}},
+"comment":"","users":{"2613":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1493745137,"name":"Kasper Elbo"},
+"22":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1493757429}},
+"hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
