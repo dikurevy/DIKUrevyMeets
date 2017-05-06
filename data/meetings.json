@@ -14195,6 +14195,10 @@
 "comment":"","users":{"2613":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1493745137,"name":"Kasper Elbo"},
 "22":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1493757429}},
+"usertype":"normal","comment":"","modified":1493757429,"name":"Sebastian Paaske T\u00f8rholm"},
+"42":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"Det sagde hun ogs\u00e5 i g\u00e5r.","modified":1494074937},
+"2782":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"Kommer, men kan v\u00e6re jeg kommer lidt for sent ","modified":1494071256,"name":"Mathias Hempel-J\u00f8rgensen"}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
