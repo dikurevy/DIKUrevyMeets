@@ -13836,7 +13836,7 @@
 "usertype":"normal","comment":"Er der ikke noget med at der bare skal bestilles pizza i dag?","modified":1494432323,"name":"Signe Scholer Jensen"},
 "35":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1494503264}},
+"usertype":"normal","comment":"Kommer senere - min oldemor bliver 95!","modified":1494518840}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false},
 "2017-05-14":{"title":"\u00d8veweekend dag 2","schedule":{"0":{"title":"\u00d8vning","type":"meet","start":"0 11:00","end":"0 21:00","unique":false,"nojoin":false,"id":"0"},
