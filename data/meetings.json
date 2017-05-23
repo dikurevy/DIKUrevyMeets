@@ -14111,7 +14111,7 @@
 "2613-e153":{"name":"Torben","usertype":"extra","schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
 "comment":"","modified":1495439475}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2017-03-22":{"title":"M\u00f8de om 1 eller 2 forestillinger","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 17:00","end":"0 19:00","unique":false,"nojoin":false,"id":"0"}},
 "comment":"","users":{"42":{"schedule":{"0":{"attending":true}},
