@@ -15273,7 +15273,7 @@
 "2018-05-18":{"title":"\u00d8vedag 0","schedule":{"0":{"id":0,"title":"M\u00f8de","type":"meet","start":"18:30","end":"23:00","unique":false,"nojoin":false},
 "1":{"id":1,"title":"Aftensmad","type":"eat","start":"17:30","end":"18:30","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"closedby":null}},
 "comment":"","users":{},
-"hidden":true,"locked":false,"tags":{"0":""},
+"hidden":false,"locked":false,"tags":{"0":""},
 "days":false},
 "2018-05-19":{"title":"\u00d8vedag 1","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"11:00","end":"18:00","unique":false,"nojoin":false},
 "1":{"title":"Aftensmad","type":"eat","start":"18:00","end":"19:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false}},
