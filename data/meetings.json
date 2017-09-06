@@ -15156,7 +15156,7 @@
 "usertype":"normal","comment":"","modified":1504609550,"name":"Andreas Malmkj\u00e6r-M\u00f8rch"},
 "122":{"schedule":{"0":{"attending":false}},
 "usertype":"normal","comment":"Arbejde tr\u00e6kker ud, s\u00e5 jeg n\u00e5r det ikke :(","modified":1504629702}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2017-10-03":{"title":"Ekstraordin\u00e6r Generalforsamling","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 19:00","end":"0 21:00","unique":false,"nojoin":false,"id":"0"}},
 "comment":"","users":{"22":{"schedule":{"0":{"attending":true}},
