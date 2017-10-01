@@ -15578,6 +15578,9 @@
 "usertype":"normal","comment":"","modified":1506291220,"name":"Simon Skjerning Linneberg"},
 "2782":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1506499096}},
+"usertype":"normal","comment":"","modified":1506499096,"name":"Mathias Hempel-J\u00f8rgensen"},
+"37":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1506890862}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
