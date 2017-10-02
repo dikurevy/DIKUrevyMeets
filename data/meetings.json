@@ -15581,6 +15581,9 @@
 "usertype":"normal","comment":"","modified":1506499096,"name":"Mathias Hempel-J\u00f8rgensen"},
 "37":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1506890862}},
+"usertype":"normal","comment":"","modified":1506890862,"name":"Mark Schor"},
+"71":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"Kommer m\u00e5ske senere eller skal g\u00e5 lidt tidligt i et par timer, da jeg skal lave noget arbejde. Kender ikke detaljerne endnu","modified":1506938310}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
