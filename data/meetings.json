@@ -15587,6 +15587,12 @@
 "usertype":"normal","comment":"Kommer m\u00e5ske senere eller skal g\u00e5 lidt tidligt i et par timer, da jeg skal lave noget arbejde. Kender ikke detaljerne endnu","modified":1506938310,"name":"Arinbj\u00f6rn Brandsson"},
 "2810":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"f\u00e6st","modified":1506955285}},
+"usertype":"normal","comment":"f\u00e6st","modified":1506955285,"name":"Emillie Anne Burkal Hansen"},
+"42":{"schedule":{"0":{"attending":false},
+"1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"Jeg f\u00f8ler mig lidt for travl i oktober m\u00e5ned. :\/\/\/","modified":1506962394,"name":"Niels G. W. Serup"},
+"35":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"Kommer hvis jeg p\u00e5 nogen m\u00e5de kan!","modified":1506966647}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
