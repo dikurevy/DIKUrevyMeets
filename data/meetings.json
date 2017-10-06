@@ -15616,9 +15616,9 @@
 "usertype":"normal","comment":"H\u00e5rd f\u00e6st","modified":1507030473,"name":"August Laursen"},
 "22":{"schedule":{"0":{"attending":false},
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"Jeg har egentlig en anden aftale, s\u00e5 jeg kommer nok ikke. Men jeg har virkelig lyst, s\u00e5 m\u00e5ske dropper jeg den anden aftale. Stay tuned!","modified":1507034183,"name":"Sebastian Paaske T\u00f8rholm"},
+"usertype":"normal","comment":"\u00d8v; er nok syg. :(","modified":1507307049},
 "2346":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1507064270}},
+"usertype":"normal","comment":"","modified":1507064270,"name":"Ren\u00e9 L\u00f8we Jacobsen"}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
