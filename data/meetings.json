@@ -15675,5 +15675,5 @@
 "2622":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"Signe og L\u00e6rke medf\u00f8lger muligvis.","modified":1507403603,"name":"Nicklas L\u00fctken"}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false}}
