@@ -15720,6 +15720,9 @@
 "usertype":"normal","comment":"","modified":1507759431,"name":"Simon Skjerning Linneberg"},
 "2778":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1507901419}},
+"usertype":"normal","comment":"","modified":1507901419,"name":"oleks"},
+"2781":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1507990924}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
