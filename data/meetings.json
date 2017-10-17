@@ -15727,5 +15727,5 @@
 "2576":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"K\u00e6lebiolog, activate!","modified":1508141458,"name":"Nathalia Kr\u00f8igaard J\u00f8rgensen"}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false}}
