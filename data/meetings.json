@@ -15393,7 +15393,7 @@
 "2809":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"Kommer, sikkert med ondt i hovedet ","modified":1508860573}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2017-11-10":{"title":"0. Hyttetur","schedule":{"0":{"id":"0","title":"Fredag","type":"meet","start":"0 17:00","end":"0 23:59","unique":false,"nojoin":false},
 "1":{"id":"1","title":"L\u00f8rdag","type":"meet","start":"1 00:00","end":"1 23:59","unique":false,"nojoin":false},
