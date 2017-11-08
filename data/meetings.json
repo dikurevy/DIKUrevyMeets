@@ -15858,6 +15858,9 @@
 "1":{"title":"Aftensmad","type":"eat","start":"0 18:00","end":"0 19:30","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"id":"1"}},
 "comment":"Dem der vil spise med m\u00f8des p\u00e5 Taco Diner, N\u00f8rre Farimagsgade 57, 1364 K\u00f8benhavn K - kl 18.\r\nEllers foreg\u00e5r showet inde i Chr. Hansen p\u00e5 CSS (s\u00f8g p\u00e5 Google Maps hvis du er i tvivl) - baren \u00e5bner kl 19; showet starter kl 19:30.","users":{"22":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1510057475}},
+"usertype":"normal","comment":"","modified":1510057475,"name":"Sebastian Paaske T\u00f8rholm"},
+"114":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1510124976}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
