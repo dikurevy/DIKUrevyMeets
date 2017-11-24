@@ -15900,6 +15900,9 @@
 "usertype":"normal","comment":"","modified":1511096569,"name":"Simon Skjerning Linneberg"},
 "22":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1511097320}},
+"usertype":"normal","comment":"","modified":1511097320,"name":"Sebastian Paaske T\u00f8rholm"},
+"2803":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1511526376}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
