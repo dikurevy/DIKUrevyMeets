@@ -15903,6 +15903,9 @@
 "usertype":"normal","comment":"","modified":1511097320,"name":"Sebastian Paaske T\u00f8rholm"},
 "2803":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1511526376}},
+"usertype":"normal","comment":"","modified":1511526376,"name":"Torben Olai Milh\u00f8j"},
+"42":{"schedule":{"0":{"attending":false},
+"1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"Jeg har ikke lige overskud","modified":1512031821}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
