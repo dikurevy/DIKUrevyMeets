@@ -15924,6 +15924,9 @@
 "usertype":"normal","comment":"","modified":1512486426,"name":"Sebastian Paaske T\u00f8rholm"},
 "114":{"schedule":{"0":{"attending":true},
 "1":{"attending":true}},
-"usertype":"normal","comment":"Bevar m\u00f8dekalenderen!!","modified":1512491337}},
+"usertype":"normal","comment":"Bevar m\u00f8dekalenderen!!","modified":1512491337,"name":"Simon Skjerning Linneberg"},
+"2781":{"schedule":{"0":{"attending":true},
+"1":{"attending":false}},
+"usertype":"normal","comment":"","modified":1512944268}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
