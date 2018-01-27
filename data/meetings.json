@@ -16011,4 +16011,11 @@
 "71":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1516015950}},
 "hidden":false,"locked":false,"tags":{"0":""},
+"days":false},
+"2018-02-17":{"title":"Skriveworkshop","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 14:00","end":"0 18:00","unique":false,"nojoin":false,"id":"0"},
+"1":{"title":"Aftensmad","type":"eat","start":"0 18:00","end":"0 19:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"id":"1"}},
+"comment":"Det bliver NICE!\r\nVi m\u00f8des i kantinen!","users":{"114":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1517063577}},
+"hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
