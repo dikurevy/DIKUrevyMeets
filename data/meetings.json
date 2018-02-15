@@ -16073,6 +16073,9 @@
 "usertype":"normal","comment":"Der er sgu desv\u00e6rre futur :-\/","modified":1517477866,"name":"Torben Olai Milh\u00f8j"},
 "2781":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"Writingarbejdsbutik","modified":1517939350}},
+"usertype":"normal","comment":"Writingarbejdsbutik","modified":1517939350,"name":"Erik Ledertoug"},
+"2346":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1518700333}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
