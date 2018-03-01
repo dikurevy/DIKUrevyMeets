@@ -16129,4 +16129,9 @@
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"","modified":1518700333}},
 "hidden":true,"locked":true,"tags":{"0":""},
+"days":false},
+"2018-03-13":{"title":"Regnskabsm\u00f8de","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 18:00","end":"0 19:30","unique":false,"nojoin":false,"id":"0"}},
+"comment":"Formentlig i 37","users":{"2613":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1519892991}},
+"hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
