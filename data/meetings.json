@@ -16277,6 +16277,8 @@
 "71":{"schedule":{"0":{"attending":false}},
 "usertype":"normal","comment":"Ligger oveni Caf\u00e9en?s generalforsamling ","modified":1520443443,"name":"Arinbj\u00f6rn Brandsson"},
 "2576":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1520509226}},
+"usertype":"normal","comment":"","modified":1520509226,"name":"Nathalia Kr\u00f8igaard J\u00f8rgensen"},
+"42":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"Make it rain","modified":1520883899}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
