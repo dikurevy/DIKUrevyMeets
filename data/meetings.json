@@ -16319,5 +16319,5 @@
 "usertype":"normal","comment":"","modified":1520509226,"name":"Nathalia Kr\u00f8igaard J\u00f8rgensen"},
 "42":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"Make it rain","modified":1520883899}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false}}
