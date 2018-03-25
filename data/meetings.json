@@ -15905,7 +15905,7 @@
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0},
 "2":{"attending":false}},
 "usertype":"normal","comment":"","modified":1521888894,"name":"Arinbj\u00f6rn Brandsson"}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2018-03-28":{"title":"P\u00e5skefrokost","schedule":{"0":{"title":"Mad","type":"meet","start":"0 17:00","end":"0 23:59","unique":false,"nojoin":false,"id":"0"}},
 "comment":"Tidspunkt er vejledende","users":{"35":{"schedule":{"0":{"attending":true}},
