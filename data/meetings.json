@@ -16774,6 +16774,8 @@
 "42":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"Cabaret d'\u00e9tat","modified":1523556555,"name":"Niels G. W. Serup"},
 "2817":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1523576624}},
+"usertype":"normal","comment":"","modified":1523576624,"name":"Jonas Holm"},
+"2781":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"Skabskundstab","modified":1523606129}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
