@@ -16063,7 +16063,7 @@
 "3":{"attending":false},
 "4":{"attending":false}},
 "usertype":"normal","comment":"","modified":1523550048}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":"3"},
 "2018-03-19":{"title":"Pr\u00e6-panikskrivning","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 19:00","end":"0 23:00","unique":false,"nojoin":false,"id":"0"},
 "1":{"title":"Aftensmad","type":"eat","start":"0 18:00","end":"0 19:00","open":false,"spend":"106.90","costperperson":11.88,"unique":false,"nojoin":false,"id":"1","closedby":"22"}},
