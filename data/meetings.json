@@ -16878,7 +16878,7 @@
 "days":false},
 "2018-04-24":{"title":"Antroforestillingen generalpr\u00f8ve","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"19:00","end":"23:00","unique":false,"nojoin":false}},
 "comment":"D\u00f8re \u00e5bner 19:00, forestilling starter 19:30.","users":{},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2018-04-30":{"title":"Madlavning til Fysikrevy","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 12:00","end":"0 23:00","unique":false,"nojoin":false,"id":"0"}},
 "comment":"Kommenter, hvis du kommer senere end 12:00, og is\u00e5fald hvorn\u00e5r.","users":{"2576":{"schedule":{"0":{"attending":true}},
