@@ -16906,6 +16906,8 @@
 "days":false},
 "2018-05-03":{"title":"Fysikrevy Generalpr\u00f8ve","schedule":{"0":{"id":"0","title":"M\u00f8de","type":"meet","start":"0 19:00","end":"0 23:00","unique":false,"nojoin":false}},
 "comment":"Hvis man nu ikke n\u00e5ede at f\u00e5 billet til Fysikrevy i \u00e5r, s\u00e5 er der endnu en mulighed for at se de, nemlig generalpr\u00f8ven!","users":{"2576":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1524654275}},
+"usertype":"normal","comment":"","modified":1524654275,"name":"Nathalia Kr\u00f8igaard J\u00f8rgensen"},
+"2815":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1524775744}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
