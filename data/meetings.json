@@ -16976,7 +16976,7 @@
 "usertype":"normal","comment":"Er den sketch ikke snart f\u00e6rdig?","modified":1524854840,"name":"Erik Ledertoug"},
 "22":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1525034585}},
+"usertype":"normal","comment":"","modified":1525386809}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false},
 "2018-05-09":{"title":"Forfatterm\u00f8de","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 19:00","end":"0 23:00","unique":false,"nojoin":false,"id":"0"},
@@ -17022,5 +17022,5 @@
 "usertype":"normal","comment":"","modified":1525161091,"name":"Sven Uhrenholdt Frenzel"},
 "2807":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1525206595}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false}}
