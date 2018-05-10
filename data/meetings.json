@@ -17144,7 +17144,7 @@
 "2781":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"Ufatterm\u00f8de","modified":1524497538,"name":"Erik Ledertoug"}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2018-04-24":{"title":"Antroforestillingen generalpr\u00f8ve","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"19:00","end":"23:00","unique":false,"nojoin":false}},
 "comment":"D\u00f8re \u00e5bner 19:00, forestilling starter 19:30.","users":{},
