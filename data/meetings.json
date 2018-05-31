@@ -16790,7 +16790,7 @@
 "114-d140":{"name":"Kildholt","usertype":"extra","schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
 "comment":"Helst ikke koriander ","modified":1527670604}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2018-05-29":{"title":"\u00d8vedag 3","schedule":{"0":{"id":"0","title":"M\u00f8de","type":"meet","start":"0 18:30","end":"0 23:00","unique":false,"nojoin":false},
 "1":{"id":"1","title":"Aftensmad","type":"eat","start":"0 17:30","end":"0 18:30","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"closedby":null}},
