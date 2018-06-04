@@ -16307,7 +16307,7 @@
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0},
 "2":{"eating":true,"cooking":true,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"","modified":1527800451,"name":"Christian Kj\u00e6r Larsen"}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2018-06-02":{"title":"L\u00f8rdagsforestilling","schedule":{"0":{"id":"0","title":"M\u00f8de","type":"meet","start":"0 18:30","end":"0 23:00","unique":false,"nojoin":false},
 "1":{"id":"1","title":"Aftensmad","type":"eat","start":"0 17:30","end":"0 18:30","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"closedby":null}},
