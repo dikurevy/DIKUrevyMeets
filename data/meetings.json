@@ -17986,6 +17986,8 @@
 "12":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1529765099,"name":"Ejnar H\u00e5konsen"},
 "2569":{"schedule":{"0":{"attending":false}},
-"usertype":"normal","comment":"Spiller jazz","modified":1529766575}},
+"usertype":"normal","comment":"Spiller jazz","modified":1529766575,"name":"Christian Kj\u00e6r Larsen"},
+"2803":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"Torben","modified":1529881678}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
