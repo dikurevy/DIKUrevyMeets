@@ -17997,5 +17997,5 @@
 "usertype":"normal","comment":"Antaget harlem ikke bruger huelens masse tid p\u00e5 vores postrevy","modified":1529929016,"name":"Erik Ledertoug"},
 "2819":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1529940785}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false}}
