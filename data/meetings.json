@@ -18044,6 +18044,10 @@
 "2807":{"schedule":{"0":{"attending":true},
 "1":{"attending":true},
 "2":{"attending":true}},
-"usertype":"normal","comment":"","modified":1534192552}},
+"usertype":"normal","comment":"","modified":1534192552,"name":"Nete Hangel"},
+"2613":{"schedule":{"0":{"attending":true},
+"1":{"attending":true},
+"2":{"attending":true}},
+"usertype":"normal","comment":"","modified":1535277016}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
