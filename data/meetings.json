@@ -18049,5 +18049,5 @@
 "1":{"attending":true},
 "2":{"attending":true}},
 "usertype":"normal","comment":"","modified":1535277016}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false}}
