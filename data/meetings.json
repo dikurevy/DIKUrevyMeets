@@ -18053,6 +18053,10 @@
 "days":false},
 "2018-09-30":{"title":"Ordin\u00e6r generalforsamling","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 18:00","end":"0 21:00","unique":false,"nojoin":false,"id":"0"}},
 "comment":"Indkaldelse findes p\u00e5 mailinglisten.","users":{"22":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"General von Samling","modified":1537869329}},
+"usertype":"normal","comment":"General von Samling","modified":1537869329,"name":"Sebastian Paaske T\u00f8rholm"},
+"2576":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1537872134,"name":"Nathalia Kr\u00f8igaard J\u00f8rgensen"},
+"2465":{"schedule":{"0":{"attending":false}},
+"usertype":"normal","comment":"","modified":1537880637}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
