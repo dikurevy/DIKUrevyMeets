@@ -18050,4 +18050,9 @@
 "2":{"attending":true}},
 "usertype":"normal","comment":"","modified":1535277016}},
 "hidden":true,"locked":true,"tags":{"0":""},
+"days":false},
+"2018-09-30":{"title":"Ordin\u00e6r generalforsamling","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 18:00","end":"0 21:00","unique":false,"nojoin":false,"id":"0"}},
+"comment":"Indkaldelse findes p\u00e5 mailinglisten.","users":{"22":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"General von Samling","modified":1537869329}},
+"hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
