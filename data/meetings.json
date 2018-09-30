@@ -18128,8 +18128,10 @@
 "usertype":"normal","comment":"","modified":1538188675}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false},
-"2018-11-09":{"title":"Revyttetur (Hyttetur) #0","schedule":{"0":{"id":0,"title":"M\u00f8de p\u00e5 DIKU (kantinen) og afgang til revyttetur. Det er muligt selv at komme derud","type":"meet","start":"16:30","end":"17:00","unique":false,"nojoin":false}},
+"2018-11-09":{"title":"Revyttetur (Hyttetur) #0","schedule":{"0":{"id":"0","title":"M\u00f8de p\u00e5 DIKU (kantinen) og afgang til revyttetur. Det er muligt selv at komme derud","type":"meet","start":"0 16:30","end":"0 17:00","unique":false,"nojoin":false}},
 "comment":"Man kan m\u00f8de i hyttten klokken 18.","users":{"2815":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"Allergi: N\u00f8dder, r\u00e5 guler\u00f8der\/\u00e6bler\/p\u00e6rer. (Tager afsted fra DIKU)","modified":1538318152}},
+"usertype":"normal","comment":"Allergi: N\u00f8dder, r\u00e5 guler\u00f8der\/\u00e6bler\/p\u00e6rer. (Tager afsted fra DIKU)","modified":1538318152,"name":"Sean Christian Lindholm"},
+"2807":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"Tager nok med fra diku, men intet er sikkert. ","modified":1538333416}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":"2"}}
