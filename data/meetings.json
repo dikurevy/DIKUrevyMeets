@@ -18106,7 +18106,7 @@
 "2824-eb80":{"name":"Isak Johannes Kofoed Gr\u00f8nne","usertype":"extra","schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":true,"paid":0}},
 "comment":"","modified":1539107277}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2018-10-25":{"title":"Revym\u00f8de","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 19:00","end":"0 22:00","unique":false,"nojoin":false,"id":"0"},
 "1":{"title":"Aftensmad","type":"eat","start":"0 18:00","end":"0 19:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"id":"1"}},
