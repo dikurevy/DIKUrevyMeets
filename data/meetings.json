@@ -18168,6 +18168,10 @@
 "2337":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1539809413,"name":"Vivien Lewkowicz de Neergaard"},
 "2337-f35f":{"name":"TrippelRus (Flora)","usertype":"extra","schedule":{"0":{"attending":true}},
-"comment":"","modified":1539809428}},
+"comment":"","modified":1539809428},
+"11-181f":{"name":"Markus","usertype":"extra","schedule":{"0":{"attending":true}},
+"comment":"","modified":1539879297},
+"152":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1539908978}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
