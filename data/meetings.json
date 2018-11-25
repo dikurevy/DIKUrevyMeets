@@ -18199,7 +18199,7 @@
 "usertype":"normal","comment":"Er stadig ikke helt sikker p\u00e5 om jeg kan komme tho... ","modified":1542710104,"name":"Nete Hangel"},
 "2803":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1542882735}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2018-11-23":{"title":"Matrevy pladsreservation fredag","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 19:00","end":"0 23:00","unique":false,"nojoin":false,"id":"0"}},
 "comment":"","users":{"2776":{"schedule":{"0":{"attending":true}},
