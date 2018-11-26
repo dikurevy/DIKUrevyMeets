@@ -18221,4 +18221,10 @@
 "372-8ecf":{"name":"Tine","usertype":"extra","schedule":{"0":{"attending":true}},
 "comment":"","modified":1542934276}},
 "hidden":true,"locked":true,"tags":{"0":""},
+"days":false},
+"2018-11-30":{"title":"Biorevy fredagsforestilling pladsreservation","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"19:00","end":"23:00","unique":false,"nojoin":false},
+"1":{"title":"M\u00f8de","type":"meet","start":"19:00","end":"23:00","unique":false,"nojoin":false},
+"2":{"title":"M\u00f8de","type":"meet","start":"19:00","end":"23:00","unique":false,"nojoin":false}},
+"comment":"","users":{},
+"hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
