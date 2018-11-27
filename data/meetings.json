@@ -18247,6 +18247,9 @@
 "usertype":"normal","comment":"Regner med at k\u00f8be ind omkring 13 or so, kom glad :D","modified":1543254764,"name":"Torben Olai Milh\u00f8j"},
 "152":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":true,"paid":0}},
-"usertype":"normal","comment":"","modified":1543259427}},
+"usertype":"normal","comment":"","modified":1543259427,"name":"Kasper Fab\u00e6ch Brandt"},
+"42":{"schedule":{"0":{"attending":true},
+"1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1543306254}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
