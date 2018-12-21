@@ -18219,7 +18219,7 @@
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0},
 "2":{"attending":true}},
 "comment":"","modified":1545293635}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2018-10-19":{"title":"Fysikrevy Jubi plads reservation","schedule":{"0":{"title":"Plads, jatak","type":"meet","start":"0 19:00","end":"0 23:00","unique":false,"nojoin":false,"id":"0"}},
 "comment":"","users":{"2576":{"schedule":{"0":{"attending":true}},
