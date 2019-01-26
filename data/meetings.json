@@ -18331,4 +18331,12 @@
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"","modified":1543671062}},
 "hidden":true,"locked":true,"tags":{"0":""},
+"days":false},
+"2019-02-09":{"title":"TexTalk","schedule":{"0":{"id":0,"title":"M\u00f8de","type":"meet","start":"12:00","end":"23:00","unique":false,"nojoin":false}},
+"comment":"Alle er velkommen og selvom du m\u00e5ske ikke lige har nogle gode id\u00e9er der skal TeX's s\u00e5 kom da for at hygge, eller for at l\u00e6re hvordan man TeX'er","users":{},
+"hidden":false,"locked":false,"tags":{"0":""},
+"days":false},
+"2019-02-16":{"title":"Hyggebetadag","schedule":{"0":{"id":0,"title":"M\u00f8de","type":"meet","start":"12:00","end":"23:00","unique":false,"nojoin":false}},
+"comment":"Denne dag er bare ren hygge, vi pr\u00f8ver at \"opf\u00f8re\" noget af det nye materiale, og se det i lidt anden kontekst end bare p\u00e5 papir. Dette er 100% uforpligtende, og en super god undskyldning for at blive godt underholdt, og m\u00e6rke lidt revy \u00e5nd inden Maj. ","users":{},
+"hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
