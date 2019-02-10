@@ -18337,7 +18337,7 @@
 "usertype":"normal","comment":"","modified":1548502414,"name":"Torben Olai Milh\u00f8j"},
 "71":{"schedule":{"0":{"attending":false}},
 "usertype":"normal","comment":"Kommer m\u00e5ske tidligt p\u00e5 dagen, men skal afholde udlejning hen ad eftermiddagen fremadrettet :(","modified":1548787236}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2019-02-16":{"title":"Hyggebetadag","schedule":{"0":{"id":"0","title":"M\u00f8de","type":"meet","start":"0 12:00","end":"0 23:00","unique":false,"nojoin":false}},
 "comment":"Denne dag er bare ren hygge, vi pr\u00f8ver at \"opf\u00f8re\" noget af det nye materiale, og se det i lidt anden kontekst end bare p\u00e5 papir. Dette er 100% uforpligtende, og en super god undskyldning for at blive godt underholdt, og m\u00e6rke lidt revy \u00e5nd inden Maj. ","users":{"2803":{"schedule":{"0":{"attending":true}},
