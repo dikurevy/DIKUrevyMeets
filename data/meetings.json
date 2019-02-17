@@ -18350,5 +18350,5 @@
 "comment":"","modified":1550272978},
 "11":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1550272983}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false}}
