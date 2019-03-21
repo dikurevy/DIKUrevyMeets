@@ -18358,6 +18358,12 @@
 "2815":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"ingen n\u00f8dder eller r\u00e5 guler\u00f8dder eller \u00e6bler til mig tak","modified":1553019667,"name":"Sean Christian Lindholm"},
 "2815-d577":{"name":"Henrik Flindt","usertype":"extra","schedule":{"0":{"attending":true}},
-"comment":"","modified":1553019701}},
+"comment":"","modified":1553019701},
+"42":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"M\u00e5ske kan jeg f\u00f8rst fra l\u00f8rdag af","modified":1553177855,"name":"Niels G. W. Serup"},
+"114":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1553185397,"name":"Simon Skjerning Linneberg"},
+"2819":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1553185753}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":"2"}}
