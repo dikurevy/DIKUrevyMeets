@@ -18364,6 +18364,8 @@
 "114":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"","modified":1553185397,"name":"Simon Skjerning Linneberg"},
 "2819":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1553185753}},
+"usertype":"normal","comment":"","modified":1553185753,"name":"Jeppe Werner Laursen"},
+"2782":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"","modified":1553191904}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":"2"}}
