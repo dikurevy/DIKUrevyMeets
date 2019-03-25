@@ -18372,6 +18372,10 @@
 "2815-5aa3":{"name":"Lauritz","usertype":"extra","schedule":{"0":{"attending":true}},
 "comment":"","modified":1553423799},
 "12":{"schedule":{"0":{"attending":true}},
-"usertype":"normal","comment":"","modified":1553507764}},
+"usertype":"normal","comment":"","modified":1553507764,"name":"Ejnar H\u00e5konsen"},
+"71":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"Kommer m\u00e5ske f\u00f8rst om l\u00f8rdagen.","modified":1553514873,"name":"Arinbj\u00f6rn Brandsson"},
+"2627":{"schedule":{"0":{"attending":true}},
+"usertype":"normal","comment":"Kun fredag til l\u00f8rdag.","modified":1553515087}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":"2"}}
