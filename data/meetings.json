@@ -18392,6 +18392,8 @@
 "2459":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"Er muligvis n\u00f8dt til at smutte tidligere s\u00f8ndag, men ved ikke endnu. ","modified":1554056763,"name":"Signe Scholer Jensen"},
 "2830-e0e2":{"name":"Buchter","usertype":"extra","schedule":{"0":{"attending":true}},
-"comment":"Jeg kan komme l\u00f8rdag :)","modified":1554070074}},
+"comment":"Jeg kan komme l\u00f8rdag :)","modified":1554070074},
+"2815-ee17":{"name":"Michelle","usertype":"extra","schedule":{"0":{"attending":true}},
+"comment":"Kommer l\u00f8rdag til S\u00f8ndag","modified":1554099185}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":"2"}}
