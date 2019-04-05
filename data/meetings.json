@@ -18414,6 +18414,9 @@
 "usertype":"normal","comment":"Alle dage","modified":1554147365,"name":"Sean Christian Lindholm"},
 "42":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"Alle dage","modified":1554196950}},
+"usertype":"normal","comment":"Alle dage","modified":1554196950,"name":"Niels G. W. Serup"},
+"2782":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1554458310}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":"10"}}
