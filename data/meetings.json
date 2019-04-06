@@ -18405,7 +18405,7 @@
 "usertype":"normal","comment":"","modified":1554380295,"name":"Kasper Elbo"},
 "2576":{"schedule":{"0":{"attending":true}},
 "usertype":"normal","comment":"Fredag-l\u00f8rdag. Spiser ikke stivelse og vil gerne undg\u00e5 det hvis muligt (ris, pasta, kartofler og br\u00f8d)","modified":1554400584}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":"2"},
 "2019-05-11":{"title":"\u00d8veweekend 0","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"11:00","end":"21:00","unique":false,"nojoin":false},
 "1":{"title":"Aftensmad","type":"eat","start":"18:00","end":"19:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false}},
