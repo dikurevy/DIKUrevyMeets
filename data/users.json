@@ -12,7 +12,7 @@
 "14":{"name":"Martin Nicklas J\u00f8rgensen","register":1317039241,"admin":true,"identity":"14","nickname":"Martin"},
 "16":{"name":"Davy Eskildsen","register":1317040774,"admin":false,"identity":"16"},
 "17":{"name":"Klaes Rasmussen","register":1317041719,"admin":false,"identity":"17","nickname":"Klaes"},
-"18":{"name":"Bj\u00f8rn Jespersen","register":1317041991,"admin":false,"identity":"18","nickname":"bjorn.kaae"},
+"18":{"name":"Bj\u00f8rn Kaae","register":1317041991,"admin":false,"identity":"18","nickname":"Bj\u00f8rn \ud83e\udd41"},
 "19":{"name":"Pia S\u00e6rmark","register":1317042030,"admin":false,"identity":"19"},
 "20":{"name":"Claus Appel (Spectrum)","register":1317042030,"admin":true,"identity":"20","nickname":"Spectrum"},
 "21":{"name":"Sarah Vang N\u00f8hr","register":1317045741,"admin":false,"identity":"21","nickname":"Sarah"},
@@ -196,4 +196,5 @@
 "2838":{"name":"Marc Pedersen","nickname":"BareMarcP","register":1557084551,"admin":false,"identity":2838},
 "2851":{"name":"Helene Pehrsson","nickname":"Helene","register":1557233393,"admin":false,"identity":2851},
 "2852":{"name":"Maia Norstved Sk\u00f8tt","nickname":"MaiaNS","register":1557261654,"admin":false,"identity":2852},
-"2850":{"name":"Frederikke Larsen","nickname":"Frederikke","register":1557683719,"admin":false,"identity":2850}}
+"2850":{"name":"Frederikke Larsen","nickname":"Frederikke","register":1557683719,"admin":false,"identity":2850},
+"2853":{"name":"Sigurd","nickname":"Sigurd","register":1558009167,"admin":false,"identity":2853}}
