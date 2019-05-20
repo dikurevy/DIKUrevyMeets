@@ -19049,7 +19049,7 @@
 "2819-b978":{"name":"BoRune","usertype":"extra","schedule":{"0":{"attending":false},
 "1":{"eating":true,"cooking":false,"foodhelp":true,"paid":0}},
 "comment":"","modified":1558258797}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2019-05-20":{"title":"Jordb\u00e6rdrinks, \u00f8vedag 4","schedule":{"0":{"id":"0","title":"M\u00f8de","type":"meet","start":"0 18:00","end":"0 23:59","unique":false,"nojoin":false},
 "1":{"id":"1","title":"Aftensmad","type":"eat","start":"0 17:15","end":"0 17:45","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"closedby":null}},
