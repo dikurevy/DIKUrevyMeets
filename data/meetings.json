@@ -20400,6 +20400,9 @@
 "1":{"title":"Brunch! :D","type":"eat","start":"0 10:00","end":"0 11:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"id":"1"}},
 "comment":"","users":{"2803":{"schedule":{"0":{"attending":true},
 "1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
-"usertype":"normal","comment":"","modified":1581359141}},
+"usertype":"normal","comment":"","modified":1581359141,"name":"Torben Olai Milh\u00f8j"},
+"2807":{"schedule":{"0":{"attending":true},
+"1":{"eating":true,"cooking":false,"foodhelp":false,"paid":0}},
+"usertype":"normal","comment":"","modified":1581508258}},
 "hidden":false,"locked":false,"tags":{"0":""},
 "days":false}}
