@@ -20255,7 +20255,7 @@
 "12":{"schedule":{"0":{"attending":true},
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"Kommer ca. kl. 20.","modified":1583413525}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2020-03-19":{"title":"Skrivem\u00f8de O(n^n)!","schedule":{"0":{"id":"0","title":"Skrivem\u00f8de!","type":"meet","start":"0 17:00","end":"0 23:00","unique":false,"nojoin":false},
 "1":{"id":"1","title":"Aftensmad p\u00e5 Dilans!","type":"eat","start":"0 17:00","end":"0 18:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"closedby":null}},
