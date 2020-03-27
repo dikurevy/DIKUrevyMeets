@@ -20275,7 +20275,7 @@
 "12":{"schedule":{"0":{"attending":true},
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"","modified":1583413559}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2020-04-03":{"title":"Hyttetur dag 0!","schedule":{"0":{"id":"0","title":"M\u00f8de","type":"meet","start":"0 12:00","end":"0 23:00","unique":false,"nojoin":true},
 "1":{"id":"1","title":"Aftensmad","type":"eat","start":"0 19:00","end":"0 20:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":true,"closedby":2803},
