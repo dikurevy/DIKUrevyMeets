@@ -20322,7 +20322,7 @@
 "2807":{"schedule":{"0":{"attending":true},
 "1":{"eating":false,"cooking":false,"foodhelp":false,"paid":0}},
 "usertype":"normal","comment":"","modified":1581549748}},
-"hidden":false,"locked":false,"tags":{"0":""},
+"hidden":true,"locked":true,"tags":{"0":""},
 "days":false},
 "2020-05-08":{"title":"Ekstra \u00f8veweekend dag 0","schedule":{"0":{"title":"M\u00f8de","type":"meet","start":"0 10:00","end":"0 17:00","unique":false,"nojoin":false,"id":"0"},
 "1":{"title":"Frokost","type":"eat","start":"0 12:00","end":"0 13:00","open":true,"spend":0,"costperperson":0,"unique":false,"nojoin":false,"id":"1"},
