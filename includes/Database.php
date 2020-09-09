@@ -457,7 +457,7 @@ class SQLDatabase {
 	private $id_array     = array();
 	private $query_amount = 0;
 	
-	function SQLDatabase($filename) {
+	function __construct ($filename) {
 		$this->sql['filename'] = $filename;
 		
 		if ( !$this->connect() )
