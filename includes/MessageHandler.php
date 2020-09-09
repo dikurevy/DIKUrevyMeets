@@ -2,7 +2,7 @@
 
 class MessageHandler {
 
-	public function MessageHandler ( $database, $auth ) {
+	public function __construct ( $database, $auth ) {
 		global $DefaultLanguage;
 		
 		$language = isset($_GET['uselang'])
